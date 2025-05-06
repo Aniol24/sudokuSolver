@@ -6,24 +6,17 @@
   "scripts": {
     "dev": "vite",
     "build": "vite build",
-<<<<<<< HEAD
     "preview": "vite preview",
     "build:css": "node_modules/.bin/tailwindcss -i ./style.css -o ./output.css --watch"
-=======
-    "preview": "vite preview"
->>>>>>> 4950ea476bfb190962d7ebf3daa380a3c5dffc1d
   },
   "dependencies": {
     "vue": "^3.5.13"
   },
   "devDependencies": {
     "@vitejs/plugin-vue": "^5.2.3",
-<<<<<<< HEAD
     "autoprefixer": "^10.4.21",
-    "postcss": "^8.5.3",
+    "postcss": "^8.4.35",
     "tailwindcss": "^3.4.17",
-=======
->>>>>>> 4950ea476bfb190962d7ebf3daa380a3c5dffc1d
     "vite": "^6.3.5"
   }
 }
